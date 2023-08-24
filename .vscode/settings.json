@@ -1,6 +1,5 @@
-{
-}
-"liveServer.settings.ignoreFiles": [
+{"liveServer.settings.ignoreFiles": [
     ".vscode/**",
     "**/db.json"
   ],
+}
